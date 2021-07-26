@@ -1,6 +1,6 @@
 Author: AL
 
-Paper Title: Git workshop
+Paper Title: Human blood is delicious
 
 dracula likes blood [1. Dracula, 2. vampire]
 
