@@ -11,6 +11,11 @@ Blood is delicious
 Figure 1
 Looooots of blood
 
+
+Conclusion:
+Blood is good for vampries
+
+
 references:
 ref 1
 ref 2
