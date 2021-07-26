@@ -8,6 +8,9 @@ Results:
 Blood is delicious
 
 
+Figure 1
+Looooots of blood
+
 references:
 ref 1
 ref 2
